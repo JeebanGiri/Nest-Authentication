@@ -12,5 +12,5 @@
             "dest": "package.json"
         }
     ],
-    "output": "build"
+    "buildCommand": "next build"
 }
